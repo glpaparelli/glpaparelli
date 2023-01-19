@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @glpaparelli
-- 👀 I’m interested in Software Development, Formal Methods, Language Theory, Software Composition, and more. 
+- 👀 I’m interested in Formal Methods, Language Theory, and all that kind of theoretical gibberish
 - 🌱 I’m currently studying for my Master's Degree in Computer Science at University of Pisa
 - 📫 How to reach me: giuliopaparelli@gmail.com
 
