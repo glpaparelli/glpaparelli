@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @glpaparelli
+- 👋 Hi, I’m Giulio
 - 👀 I’m interested in Formal Methods, Language Theory, and all that kind of theoretical gibberish
 - 🌱 I’m currently studying for my Master's Degree in Computer Science at University of Pisa
 - 📫 How to reach me: giuliopaparelli@gmail.com
